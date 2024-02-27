@@ -8,5 +8,8 @@ public class Main {
         System.out.println("Hi from testbranch1");
 
         //Something new from testbranch1
+
+        //This was made from feature branch: testbranch2
+        System.out.println("Hi from testbranch2");
     }
 }
